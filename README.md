@@ -111,3 +111,9 @@ Open a new terminal window and run:
 
 - The **Client** will print: `Connected to the server!` and `Data sent...`.
 - The **Server** will detect the connection, spawn a thread, and print the unpacked data: `[Thread ID] Received... Player X-position: 900`.
+
+**Linux Output terminals (Left is server; right is client)**  
+![Alt Text](./images/Two_terminals_running_the_code_Linux.png)
+
+**Windows Output terminals (Left is server; right is client)**  
+![Alt Text](./images/Two_terminals_running_the_code_Windows.png)
